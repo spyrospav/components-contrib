@@ -553,3 +553,6 @@ replace github.com/gobwas/pool => github.com/gobwas/pool v0.2.1
 replace go.opencensus.io => go.opencensus.io v0.23.0
 
 replace github.com/toolkits/concurrent => github.com/niean/gotools v0.0.0-20151221085310-ff3f51fc5c60
+
+
+replace components/mucache => ../components-mucache
